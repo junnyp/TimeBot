@@ -4,8 +4,7 @@ from colorama import Back, Fore, Style
 import platform
 from datetime import datetime
 # Unique token for bot, should be kept hidden
-TOKEN = 'OTg4NjE3NTczMjI4NzU3MDg1.GE-0ze._7Xg6p9wa5bEJPDIVKHCkhym8YfOyOMqKBZxE8'
-
+TOKEN = 'Hidden Token!'
 # 100 possible events at once
 eventIDs = list(range(1, 101))
 # dictionary to store event embed data
